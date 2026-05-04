@@ -472,14 +472,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 🙏 Acknowledgments
-
-- Built on the open-source [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) framework by StackBlitz
-- AI models provided by [HuggingFace](https://huggingface.co)
-- In-browser runtime powered by [WebContainers](https://webcontainers.io)
-
----
-
 <div align="center">
 
 ### 🧠 NeuroForge AI Studio
@@ -489,3 +481,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 *Made with ❤️ and 🤖*
 
 </div>
+
